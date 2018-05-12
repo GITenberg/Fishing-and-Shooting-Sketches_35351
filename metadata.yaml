@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1654
     wikipedia: http://en.wikipedia.org/wiki/Grover_Cleveland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35351#Fishing-and-Shooting-Sketches
 gutenberg_issued: '2011-02-21'
 gutenberg_type: Text
 identifiers:
