@@ -1,0 +1,47 @@
+_repo: Fishing-and-Shooting-Sketches_35351
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Watson, Hy S. (Henry Summer)
+    aliases:
+    - Watson, Henry Summer
+    - Watson, Henry S.
+    birthdate: 1868
+    deathdate: 1933
+    gutenberg_agent_id: '36702'
+    url: http://www.gutenberg.org/2009/agents/36702
+covers:
+- cover_type: archival
+  image_path: 35351-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Cleveland, Grover
+    aliases:
+    - United States President (1885-1889)
+    - Cleveland, Stephen Grover
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '1654'
+    url: http://www.gutenberg.org/2009/agents/1654
+    wikipedia: http://en.wikipedia.org/wiki/Grover_Cleveland
+description: ''
+gutenberg_issued: '2011-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35351'
+  lccn: 06035962
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SH'
+- !lcc 'SK'
+- !lcsh 'Fishing'
+- !lcsh 'Hunting'
+tableOfContents: The mission of sport and outdoor life -- A defense of fishermen --
+  The serene duck hunter -- The mission of fishing and fishermen -- Some fishing pretenses
+  and affectations -- Summer shooting -- Concerning rabbit shooting -- A word to fishermen
+  -- A duck hunting trip -- Quail shooting.
+title: Fishing and Shooting Sketches
+url: http://www.gutenberg.org/ebooks/35351
